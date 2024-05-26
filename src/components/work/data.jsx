@@ -5,6 +5,7 @@ import Work4 from '../../assets/Work4.png'
 import Work5 from '../../assets/Work5.png'
 import Work6 from '../../assets/Work6.png'
 import Work7 from '../../assets/Work7.png'
+import Work8 from '../../assets/Work8.png'
 
 export const projectData = [
     {
@@ -56,6 +57,13 @@ export const projectData = [
         category: 'blender',
         link: "https://github.com/Dimitar0902/Phone-Blender-Model"
     },
+    {
+        id: 8,
+        image: Work8,
+        title: 'React Web Shop',
+        category: 'web',
+        link: "https://github.com/Dimitar0902/skateshop"
+    }
 ]
 
 export const projectsNav = [
