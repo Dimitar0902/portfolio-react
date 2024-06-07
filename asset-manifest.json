@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.54ca8179.css",
-    "main.js": "/portfolio-react/static/js/main.8948e1fa.js",
+    "main.js": "/portfolio-react/static/js/main.eafdbb5c.js",
     "static/media/Work6.png": "/portfolio-react/static/media/Work6.325b5a15ea7d1ed514fe.png",
     "static/media/Work7.png": "/portfolio-react/static/media/Work7.5c5e282ba17f9a3386a0.png",
     "static/media/Work8.png": "/portfolio-react/static/media/Work8.09e7da6ce11820cf10c5.png",
@@ -13,10 +13,10 @@
     "static/media/CV_Dimitar_Dimitrov.pdf": "/portfolio-react/static/media/CV_Dimitar_Dimitrov.08df1e0e95c9a89033bd.pdf",
     "index.html": "/portfolio-react/index.html",
     "main.54ca8179.css.map": "/portfolio-react/static/css/main.54ca8179.css.map",
-    "main.8948e1fa.js.map": "/portfolio-react/static/js/main.8948e1fa.js.map"
+    "main.eafdbb5c.js.map": "/portfolio-react/static/js/main.eafdbb5c.js.map"
   },
   "entrypoints": [
     "static/css/main.54ca8179.css",
-    "static/js/main.8948e1fa.js"
+    "static/js/main.eafdbb5c.js"
   ]
 }
