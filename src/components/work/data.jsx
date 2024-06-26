@@ -6,6 +6,7 @@ import Work5 from '../../assets/Work5.png'
 import Work6 from '../../assets/Work6.png'
 import Work7 from '../../assets/Work7.png'
 import Work8 from '../../assets/Work8.png'
+import Work9 from '../../assets/Work9.png'
 
 export const projectData = [
     {
@@ -63,6 +64,13 @@ export const projectData = [
         title: 'React Web Shop',
         category: 'web',
         link: "https://github.com/Dimitar0902/skateshop"
+    },
+    {
+        id:9,
+        image: Work9,
+        title: 'JS Finance Track App',
+        category: 'web',
+        link: "https://github.com/Dimitar0902/Finance-Tracker-App"
     }
 ]
 
