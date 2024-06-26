@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.54ca8179.css",
-    "main.js": "/portfolio-react/static/js/main.eafdbb5c.js",
+    "main.js": "/portfolio-react/static/js/main.3b521d11.js",
     "static/media/Work6.png": "/portfolio-react/static/media/Work6.325b5a15ea7d1ed514fe.png",
     "static/media/Work7.png": "/portfolio-react/static/media/Work7.5c5e282ba17f9a3386a0.png",
     "static/media/Work8.png": "/portfolio-react/static/media/Work8.09e7da6ce11820cf10c5.png",
@@ -11,12 +11,13 @@
     "static/media/Work2.png": "/portfolio-react/static/media/Work2.662f8d1690cd8e4f13cc.png",
     "static/media/IMG_0004.jpg": "/portfolio-react/static/media/IMG_0004.63194c4866d418dd6067.jpg",
     "static/media/CV_Dimitar_Dimitrov.pdf": "/portfolio-react/static/media/CV_Dimitar_Dimitrov.08df1e0e95c9a89033bd.pdf",
+    "static/media/Work9.png": "/portfolio-react/static/media/Work9.4bbee980440fe83be227.png",
     "index.html": "/portfolio-react/index.html",
     "main.54ca8179.css.map": "/portfolio-react/static/css/main.54ca8179.css.map",
-    "main.eafdbb5c.js.map": "/portfolio-react/static/js/main.eafdbb5c.js.map"
+    "main.3b521d11.js.map": "/portfolio-react/static/js/main.3b521d11.js.map"
   },
   "entrypoints": [
     "static/css/main.54ca8179.css",
-    "static/js/main.eafdbb5c.js"
+    "static/js/main.3b521d11.js"
   ]
 }
